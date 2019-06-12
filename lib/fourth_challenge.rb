@@ -22,6 +22,8 @@ def fourth_challenge
    }
 }
 
+montague[:hero][:status]["dead"]
+capulet[:hero][:status]["dead"]
 
 
 end
