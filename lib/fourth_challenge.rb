@@ -27,4 +27,3 @@ puts epic_tragedy
 
 
 end
-
